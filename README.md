@@ -1,7 +1,7 @@
 # autoinject
 An Automatic tool to scan ports and services with Nmap and perform Sql injection with SQLmap. It is a perfect soultion if you want to centralize these tools in single application..
 
-![autoinject]
+[autoinject]
 
 ## Installation
 ```
@@ -13,5 +13,4 @@ python3 autoinject.py
 ```
 
 ## Support
-
-<a href="https://www.x.com/@0xswayamm"></a></p>
+https://www.x.com/@0xswayamm
