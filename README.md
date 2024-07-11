@@ -8,7 +8,7 @@ An Automatic tool to scan ports and services with Nmap and perform Sql injection
 git clone https://github.com/xploitnation/autoinject
 cd autoinject
 pip install -r requirements.txt
-sudo chmod 777 autoinject.py requirements.txt
+sudo chmod 777 autoinject.py 
 python3 autoinject.py
 ```
 
